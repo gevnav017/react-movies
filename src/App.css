@@ -1,0 +1,6 @@
+.movies:hover {
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px gray;
+}
